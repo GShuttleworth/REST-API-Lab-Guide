@@ -1,3 +1,5 @@
+*This lab is part of a series of guides from the [Network Automation and Tooling workshop series](https://github.com/sttrayno/Network-Automation-Tooling)*
+
 # REST APIs for Network Automation Lab
 
 Written by Greg Shuttleworth. Any questions please reach out to gshuttle@cisco.com.
